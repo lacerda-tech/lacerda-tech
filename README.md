@@ -1,16 +1,24 @@
-## Hi there 👋
+### Olá, eu sou a Ana Carla Lacerda! 👋
 
-<!--
-**lacerda-tech/lacerda-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Desenvolvimento de Sistemas** e apaixonada por tecnologia. Atualmente, venho focando em expandir meus conhecimentos tanto no desenvolvimento de software quanto na área de Python e dados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+
+[![Skill Icons](https://skillicons.dev/icons?i=java,python,eclipse,git,github,vscode)](https://skillicons.dev)
+
+* **Linguagens:** Java, Python
+* **Banco de Dados & Dados:** Manipulação e análise de dados, SQL / Conceitos de Banco de Dados
+* **Ferramentas:** Git, GitHub, Eclipse, VS Code
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lacerda-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacerda-tech&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
