@@ -12,13 +12,5 @@ Sou estudante de **Desenvolvimento de Sistemas** e apaixonada por tecnologia. At
 * **Banco de Dados & Dados:** Manipulação e análise de dados, SQL / Conceitos de Banco de Dados
 * **Ferramentas:** Git, GitHub, Eclipse, VS Code
 
----
 
-### 📊 Estatísticas do GitHub
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lacerda-tech&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacerda-tech&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
