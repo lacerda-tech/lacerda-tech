@@ -1,6 +1,6 @@
 ### Olá, eu sou a Ana Carla Lacerda! 👋
 
-Sou estudante de **Desenvolvimento de Sistemas** e apaixonada por tecnologia. Atualmente, venho focando em expandir meus conhecimentos tanto no desenvolvimento de software quanto na área de Python e dados.
+Sou estudante de **Desenvolvimento de Sistemas** e trabalho com tecnologia. Atualmente, venho focando em expandir meus conhecimentos tanto no desenvolvimento de software quanto na área de Python e dados.
 
 ---
 
