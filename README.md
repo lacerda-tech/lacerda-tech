@@ -8,9 +8,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e trabalho com tecnologia. Atua
 
 [![Skill Icons](https://skillicons.dev/icons?i=java,python,eclipse,git,github,vscode)](https://skillicons.dev)
 
-* **Linguagens:** Java, Python
+* **Linguagens:** html, Python
 * **Banco de Dados & Dados:** Manipulação e análise de dados, SQL / Conceitos de Banco de Dados
-* **Ferramentas:** Git, GitHub, Eclipse, VS Code
+* **Ferramentas:** Git, GitHub, , VS Code
 
 
 
