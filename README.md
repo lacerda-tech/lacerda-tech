@@ -6,7 +6,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e trabalho com tecnologia. Atua
 
 ### 🛠️ Tecnologias e Ferramentas
 
-[![Skill Icons](https://skillicons.dev/icons?i=java,python,eclipse,git,github,vscode)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=html,python,eclipse,git,github,vscode)](https://skillicons.dev)
 
 * **Linguagens:** html, Python
 * **Banco de Dados & Dados:** Manipulação e análise de dados, SQL / Conceitos de Banco de Dados
